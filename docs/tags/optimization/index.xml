@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | Yuto Lewis Terashima</title>
+    <link>https://ylt-apcom.io/tags/optimization/</link>
+      <atom:link href="https://ylt-apcom.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylt-apcom.io/media/icon_hu4009627630656268537.png</url>
+      <title>Optimization</title>
+      <link>https://ylt-apcom.io/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Mitou-Target Program for Quantum Computing Technology</title>
+      <link>https://ylt-apcom.io/post/mitou-2023/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://ylt-apcom.io/post/mitou-2023/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Mitou-Target Program&lt;/strong&gt; for &lt;strong&gt;Quantum Computing Technology&lt;/strong&gt; selected this project in 2023 for its innovative approach to solving optimization problems using quantum algorithms.&lt;/p&gt;
+&lt;p&gt;The project involves the development of a &lt;strong&gt;quantum annealing-based service&lt;/strong&gt; for &lt;strong&gt;route optimization&lt;/strong&gt; in logistics, focusing on enhancing computational efficiency and scalability. By leveraging state-of-the-art quantum computing platforms, the project aims to address real-world challenges in the logistics and transportation sectors.&lt;/p&gt;
+&lt;p&gt;This recognition underlines the project&amp;rsquo;s potential to drive technological advancements in the field of &lt;strong&gt;quantum optimization&lt;/strong&gt; and its applications to industrial problems, marking a significant milestone in the integration of quantum computing into everyday solutions.&lt;/p&gt;
+&lt;p&gt;For further details, see the official &lt;a href=&#34;https://www.ipa.go.jp/jinzai/mitou/target/2023/gaiyou_tr-2.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mitou-Target Program Page&lt;/a&gt; and &lt;a href=&#34;https://amplify.fixstars.com/en/customers/interview/mitou2023/cvrp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fixstars Amplify Interview&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

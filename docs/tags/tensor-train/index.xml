@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensor Train | Yuto Lewis Terashima</title>
+    <link>https://ylt-apcom.io/tags/tensor-train/</link>
+      <atom:link href="https://ylt-apcom.io/tags/tensor-train/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tensor Train</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylt-apcom.io/media/icon_hu4009627630656268537.png</url>
+      <title>Tensor Train</title>
+      <link>https://ylt-apcom.io/tags/tensor-train/</link>
+    </image>
+    
+    <item>
+      <title>Efficient computational homogenization via tensor train format</title>
+      <link>https://ylt-apcom.io/publication/arxiv2024-effi/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://ylt-apcom.io/publication/arxiv2024-effi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

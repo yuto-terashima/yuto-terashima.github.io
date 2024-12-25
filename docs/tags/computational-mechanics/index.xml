@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational Mechanics | Yuto Lewis Terashima</title>
+    <link>https://ylt-apcom.io/tags/computational-mechanics/</link>
+      <atom:link href="https://ylt-apcom.io/tags/computational-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computational Mechanics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylt-apcom.io/media/icon_hu4009627630656268537.png</url>
+      <title>Computational Mechanics</title>
+      <link>https://ylt-apcom.io/tags/computational-mechanics/</link>
+    </image>
+    
+    <item>
+      <title>Best Presentation Award for Collaborative Research Idea Hackathon</title>
+      <link>https://ylt-apcom.io/post/jsces-summer-2024/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://ylt-apcom.io/post/jsces-summer-2024/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Best Presentation Award&lt;/strong&gt; was granted for outstanding performance at the &lt;strong&gt;Collaborative Research Idea Hackathon&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The presented idea focused on integrating &lt;strong&gt;Finite Element Methods (FEM)&lt;/strong&gt; and &lt;strong&gt;Molecular Dynamics (MD)&lt;/strong&gt; simulations to explore the mechanical properties of advanced materials. This innovative approach emphasizes the importance of &lt;strong&gt;multi-scale simulations&lt;/strong&gt; in bridging fine-scale material behaviors and coarse-scale applications, contributing significantly to computational mechanics.&lt;/p&gt;
+&lt;p&gt;The hackathon provided a platform for researchers from various disciplines to collaborate, exchange ideas, and advance cutting-edge research methodologies, demonstrating the value of teamwork in driving scientific innovation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

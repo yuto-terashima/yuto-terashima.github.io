@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nanocrystalline Aluminium | Yuto Lewis Terashima</title>
+    <link>https://ylt-apcom.io/tags/nanocrystalline-aluminium/</link>
+      <atom:link href="https://ylt-apcom.io/tags/nanocrystalline-aluminium/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nanocrystalline Aluminium</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ylt-apcom.io/media/icon_hu4009627630656268537.png</url>
+      <title>Nanocrystalline Aluminium</title>
+      <link>https://ylt-apcom.io/tags/nanocrystalline-aluminium/</link>
+    </image>
+    
+    <item>
+      <title>MD-FEM連成解析手法の開発とナノ多結晶アルミニウムへの適用</title>
+      <link>https://ylt-apcom.io/publication/%E6%9D%90%E6%96%992024-mdf/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ylt-apcom.io/publication/%E6%9D%90%E6%96%992024-mdf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
