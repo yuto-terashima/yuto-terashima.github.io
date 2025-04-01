@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Student at Keio University, Research Assistant at AIST
+role: PhD Candidate at Keio University, Research Assistant at AIST
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -65,15 +65,15 @@ education:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
   
-  # - area: Doctor of Engineering
-  #   institution: Graduate School of Science and Technology, Keio University
-  #   date_start: 2025-04-01
-  #   date_end: 2028-03-31
+  - area: PhD in Engineering
+    institution: Graduate School of Science and Technology, Keio University
+    date_start: 2025-04-01
+    date_end: '' #2028-03-31
 
-  - area: Master of Engineering
+  - area: Master of Science in Engineering
     institution: Graduate School of Science and Technology, Keio University
     date_start: 2023-04-01
-    date_end: '' #2025-03-31
+    date_end: 2025-03-31
     summary: |
       GPA: 4.0/4.0
 
