@@ -30,29 +30,48 @@ sections:
           size: cover
           position: center
           parallax: true
-  - block: collection
-    id: papers
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  #     columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Conferences & Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  #     columns: 1
+  - block: markdown
+    id: cv-viewer
     content:
-      title: Publications
-      # text: "A list of my research papers published in journals, conferences, and other venues."
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      title: Curriculum Vitae
+      text: |
+        <div style="position:relative; left:50%; transform:translateX(-50%); width:min(1400px, 96vw); height:85vh; border:1px solid #e0e0e0; border-radius:4px; overflow:hidden;">
+          <iframe
+            src="/uploads/yuto_terashima_cv.pdf"
+            width="100%"
+            height="100%"
+            style="border:none; display:block;"
+            title="Curriculum Vitae">
+          </iframe>
+        </div>
+        <p style="text-align:center; margin-top:1rem;">
+          <a href="/uploads/yuto_terashima_cv.pdf" download class="btn btn-primary">Download CV</a>
+        </p>
     design:
-      view: citation
-      columns: 1
-  - block: collection
-    id: talks
-    content:
-      title: Conferences & Talks
-      filters:
-        folders:
-          - event
-        exclude_featured: false
-    design:
-      view: citation
-      columns: 1
+      spacing:
+        padding: ["2rem", "0", "2rem", "0"]
   - block: resume-experience
     id: cv
     content:
