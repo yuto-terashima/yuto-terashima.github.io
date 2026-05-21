@@ -66,9 +66,6 @@ sections:
             title="Curriculum Vitae">
           </iframe>
         </div>
-        <p style="text-align:center; margin-top:1rem;">
-          <a href="/uploads/yuto_terashima_cv.pdf" download class="btn btn-primary">Download CV</a>
-        </p>
     design:
       spacing:
         padding: ["2rem", "0", "2rem", "0"]
