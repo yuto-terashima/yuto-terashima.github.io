@@ -177,6 +177,6 @@ awards:
 
 ## About Me
 
-I am a graduate student specializing in computational mechanics at Keio University, where I conduct research under the guidance of Prof. Muramatsu. My work focuses on multiscale simulations, with a particular emphasis on integrating finite element methods (FEM) and molecular dynamics (MD) to investigate the mechanical properties of advanced materials. For more information, please refer to my CV.
+I am a PhD candidate specializing in computational mechanics at Keio University, where I conduct research under the guidance of Prof. Muramatsu. My work focuses on multiscale simulations, with a particular emphasis on integrating finite element methods (FEM) and molecular dynamics (MD) to investigate the mechanical properties of advanced materials.
 
 <!-- In addition, I serve as a research assistant at the National Institute of Advanced Industrial Science and Technology (AIST), where I bridge the fields of quantum computations and computational mechanics. -->

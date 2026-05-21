@@ -7,18 +7,21 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Publications
-    url: /#papers
+  - name: CV
+    url: /#cv-viewer
     weight: 11
-  - name: Presentations
-    url: /#talks
-    weight: 12
   - name: Experience
     url: /#cv
-    weight: 13
-  - name: Projects
+    weight: 12
+  - name: Articles
     url: /#pjaw
-    weight: 14
+    weight: 13
+  # - name: Publications
+  #   url: /#papers
+  #   weight: 20
+  # - name: Presentations
+  #   url: /#talks
+  #   weight: 21
   # - name: News
   #   url: /#news
   #   weight: 14
