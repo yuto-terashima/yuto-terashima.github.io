@@ -155,10 +155,10 @@ awards:
     url: https://www.ipa.go.jp/jinzai/mitou/koubo/interview/interview07.html
     date: '2023-06-15'
     summary: "An interview discussing my contributions to the Mitou-Target program for quantum computing."
-  - title: "Customer Success Story: CVRP Optimization"
+  - title: "Interview with Fixstars: Quantum Computing for CVRP Optimization"
     url: https://amplify.fixstars.com/en/customers/interview/mitou2023/cvrp
     date: '2023-07-20'
-    summary: "Showcasing the application of quantum computing in vehicle routing problems."
+    summary: "An interview by Fixstars discussing the application of quantum computing to vehicle routing problems."
   # - title: Best Presentation Award
   #   # url: https://www.coursera.org/learn/neural-networks-deep-learning
   #   date: '2024-09-16'

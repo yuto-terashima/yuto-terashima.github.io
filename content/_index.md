@@ -82,11 +82,25 @@ sections:
   #     username: admin
   #   design:
   #     show_skill_percentage: false
-  - block: resume-awards
+  - block: markdown
     id: pjaw
     content:
       title: Featured Articles
-      username: admin
+      text: |
+        <div class="article-cards">
+          <a href="https://www.ipa.go.jp/jinzai/mitou/koubo/interview/interview07.html" target="_blank" rel="noopener" class="article-card">
+            <div class="article-card-source">IPA · June 2023</div>
+            <div class="article-card-title">Mitou-Target Program: Interview with Yuto Terashima</div>
+            <div class="article-card-desc">An interview discussing my contributions to the Mitou-Target program for quantum computing.</div>
+            <div class="article-card-link">Read article →</div>
+          </a>
+          <a href="https://amplify.fixstars.com/en/customers/interview/mitou2023/cvrp" target="_blank" rel="noopener" class="article-card">
+            <div class="article-card-source">Fixstars · July 2023</div>
+            <div class="article-card-title">Interview with Fixstars: Quantum Computing for CVRP Optimization</div>
+            <div class="article-card-desc">An interview by Fixstars discussing the application of quantum computing to vehicle routing problems.</div>
+            <div class="article-card-link">Read article →</div>
+          </a>
+        </div>
   # - block: resume-languages
   #   content:
   #     title: Languages

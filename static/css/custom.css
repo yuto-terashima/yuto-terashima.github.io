@@ -1,0 +1,52 @@
+/* Featured Article Cards */
+.article-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+.article-card {
+  display: block;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  border-radius: 0.75rem;
+  text-decoration: none;
+  transition: box-shadow 0.2s, border-color 0.2s;
+  background: transparent;
+}
+
+.article-card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  border-color: rgba(128, 128, 128, 0.4);
+  text-decoration: none;
+}
+
+.article-card-source {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  opacity: 0.55;
+  margin-bottom: 0.5rem;
+}
+
+.article-card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+}
+
+.article-card-desc {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  opacity: 0.75;
+  margin-bottom: 0.75rem;
+}
+
+.article-card-link {
+  font-size: 0.82rem;
+  font-weight: 600;
+  opacity: 0.6;
+}
