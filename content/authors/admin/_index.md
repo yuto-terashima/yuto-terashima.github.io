@@ -85,6 +85,12 @@ education:
       GPA: 3.3/4.0
 
 work:
+  - position: Research Scientist
+    company_name: IBM Research Tokyo Research Laboratory
+    company_url: ''
+    company_logo: ''
+    date_start: 2026-06-01
+    date_end: 2026-10-31
   - position: Research Assistant
     company_name: National Institute of Advanced Industrial Science and Technology
     company_url: https://www.aist.go.jp/index_en.html
