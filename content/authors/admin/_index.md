@@ -45,6 +45,8 @@ profiles:
     url: https://www.linkedin.com/in/yuto-terashima-088b23216/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=CIo4ofsAAAAJ&hl=en
+  - icon: brands/github
+    url: https://github.com/yuto-terashima
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
